@@ -1,0 +1,29 @@
+{
+  "name": "hot-restaurant-miniproject",
+  "version": "1.0.0",
+  "description": "View routes -home -reservation form -reservation views API Routes -View tables -View waitlist -Create reservation -Clear Tables",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gstephbolivar/hot-restaurant-miniproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gstephbolivar/hot-restaurant-miniproject/issues"
+  },
+  "homepage": "https://github.com/gstephbolivar/hot-restaurant-miniproject#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
